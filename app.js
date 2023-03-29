@@ -21,6 +21,9 @@ var questions = [
 	}
 ]
 
-
+for(i = 0; i < questions.length; i++) {
+	q = questions[i].question
+	document.getElementById('question' + [i]).textContent = q
+}
 
 
