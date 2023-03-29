@@ -1,20 +1,26 @@
 var questions = [ 
 	{
-		question: "how many planets in our solar system?",
+		question: "how many planets are in our solar system?",
 		answer: 9
 	},
 	{
-		question: "what is the position of the earth ?",
+		question: "what is the position of the earth in our solar system ?",
 		answer: 3
 	},
 	{
-		question: "what is the first planete?",
-		answer: "mercure"
+		question: "what is the first planet in our solar system?",
+		answer: "mercury"
 	},
 	{
-		question: "what is the last planete?",
-		answer: "pleton"
+		question: "what is the last planet in our solar system?",
+		answer: "pluto"
 	},
-	
+	{
+		question: "what is the biggest planet in our solar system?",
+		answer: "jupiter"
+	}
 ]
+
+
+
 
